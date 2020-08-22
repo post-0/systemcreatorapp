@@ -1,1 +1,1 @@
-exec("installer.py")
+exec("systemcreator/installer.py")
